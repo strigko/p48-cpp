@@ -1,0 +1,34 @@
+commit 345116924b90604de0f658548047e5437aa71ff8
+Author: strigko <planmobi844@gmail.com>
+Date:   Thu Jun 26 17:53:04 2025 +0300
+
+    note.txt added
+
+commit 4ea9002ae380133b29849471c9daf90a3b824588
+Author: strigko <planmobi844@gmail.com>
+Date:   Tue Jun 24 19:23:53 2025 +0300
+
+    Add index.html
+
+commit a8f0409a05558dc80698defed8cc80e74ef3e661
+Author: Strigko <planmobi844@gmail.com>
+Date:   Tue Jun 24 19:01:56 2025 +0300
+
+    Initial commit
+commit 345116924b90604de0f658548047e5437aa71ff8
+Author: strigko <planmobi844@gmail.com>
+Date:   Thu Jun 26 17:53:04 2025 +0300
+
+    note.txt added
+
+commit 4ea9002ae380133b29849471c9daf90a3b824588
+Author: strigko <planmobi844@gmail.com>
+Date:   Tue Jun 24 19:23:53 2025 +0300
+
+    Add index.html
+
+commit a8f0409a05558dc80698defed8cc80e74ef3e661
+Author: Strigko <planmobi844@gmail.com>
+Date:   Tue Jun 24 19:01:56 2025 +0300
+
+    Initial commit
